@@ -13,7 +13,7 @@
 
 <img width="1431" alt="Screen Shot 2022-09-17 at 3 58 19 AM" src="https://user-images.githubusercontent.com/58461444/190853304-4bbda9d4-55ee-49eb-a701-e4ba8795aaa3.png">
 
-# Original Video (2x spped):
+# Original Video (2x speed):
 
 https://user-images.githubusercontent.com/58461444/190852950-0c06b68c-6d8d-4d05-87ff-d8d9dd412862.mov
 
