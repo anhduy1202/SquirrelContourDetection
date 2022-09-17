@@ -18,7 +18,7 @@
 https://user-images.githubusercontent.com/58461444/190852950-0c06b68c-6d8d-4d05-87ff-d8d9dd412862.mov
 
 
-# After Contour Detection:
+# After Contour Detection (10x speed):
 
 https://user-images.githubusercontent.com/58461444/190853007-90919927-b61b-4f26-bff1-90f43a69df00.mov
 
